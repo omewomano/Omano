@@ -45,3 +45,33 @@
 .top-pad{
     margin-top: 15px;
 }
+
+footer{
+    border: solid 2px #333;
+    background-color: #333;
+    height: 70px;
+
+}
+.blue{
+    color:#2222ff 
+}
+.fb:hover{
+    color: #22f;
+}
+.tw:hover{
+    color: #6cf;
+}
+.gp:hover{
+    color: #a33;
+}
+
+.social-media:hover{
+    background-color: #fff;
+    color:#222;
+    padding:4px 4px
+}
+
+.services-list li a:active, .services-list li a:hover, .services-list li a{
+    color: #222
+}
+} 
