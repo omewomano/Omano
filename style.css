@@ -1,0 +1,47 @@
+.logo-nav-holder{
+    background-color:#fff;
+    margin-left: 6px;
+    margin-right: 6px; 
+    margin-top: 2px;
+    border-radius: 4px;
+    position:fixed;
+    z-index: 2147483647;
+    width:97%
+}
+
+.navigation-bar{
+    padding-top: 65px;
+}
+
+.navigation-bar nav a{
+    padding-right: 50px;
+    font-weight: bold;
+    color: #000
+}
+
+.white{
+    color: #fff
+}
+
+.holder{
+    border: solid 2px red;
+    width:inherit
+}
+
+.show{
+    border:solid 2px red
+}
+
+.list-head{
+    font-weight: bold;
+    color:#438cb0
+}
+
+.services-list{
+    padding-left: 0px;
+    font-size: 12px
+}
+
+.top-pad{
+    margin-top: 15px;
+}
